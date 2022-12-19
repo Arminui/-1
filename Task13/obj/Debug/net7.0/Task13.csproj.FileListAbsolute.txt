@@ -1,0 +1,15 @@
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\bin\Debug\net7.0\Task13.exe
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\bin\Debug\net7.0\Task13.deps.json
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\bin\Debug\net7.0\Task13.dll
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\bin\Debug\net7.0\Task13.pdb
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\obj\Debug\net7.0\Task13.csproj.AssemblyReference.cache
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\obj\Debug\net7.0\Task13.dll
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\obj\Debug\net7.0\refint\Task13.dll
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\obj\Debug\net7.0\Task13.pdb
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+C:\Users\Armenui\Знакомство с языками программирования\Семинар\ДЗ к семинару2\Task13\obj\Debug\net7.0\ref\Task13.dll
